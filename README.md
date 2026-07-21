@@ -1,8 +1,5 @@
 # UnivOREsity
 
-
-
-
 ## Introduction
 
 This is a project created inside the ORE community for the ORE community members. 
